@@ -1,0 +1,15 @@
+net\x52im\mobileimsdk\protocal\ErrorCode$ForC.class
+net\x52im\mobileimsdk\protocal\ProtocalType$S.class
+net\x52im\mobileimsdk\protocal\CharsetHelper.class
+net\x52im\mobileimsdk\protocal\ProtocalFactory.class
+net\x52im\mobileimsdk\protocal\ProtocalType$C.class
+net\x52im\mobileimsdk\protocal\s\PErrorResponse.class
+net\x52im\mobileimsdk\protocal\s\PKickoutInfo.class
+net\x52im\mobileimsdk\protocal\c\PKeepAlive.class
+net\x52im\mobileimsdk\protocal\ErrorCode$ForS.class
+net\x52im\mobileimsdk\protocal\c\PLoginInfo.class
+net\x52im\mobileimsdk\protocal\Protocal.class
+net\x52im\mobileimsdk\protocal\ErrorCode.class
+net\x52im\mobileimsdk\protocal\ProtocalType.class
+net\x52im\mobileimsdk\protocal\s\PKeepAliveResponse.class
+net\x52im\mobileimsdk\protocal\s\PLoginInfoResponse.class

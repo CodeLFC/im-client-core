@@ -14,7 +14,7 @@
  * 
  * PKickoutInfo.java at 2022-7-12 16:35:57, code by Jack Jiang.
  */
-package net.x52im.mobileimsdk.protocal.s;
+package net.x52im.mobileimsdk.protocol.s;
 
 public class PKickoutInfo
 {

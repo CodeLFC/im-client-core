@@ -14,7 +14,7 @@
  * 
  * PLoginInfo.java at 2022-7-12 16:35:59, code by Jack Jiang.
  */
-package net.x52im.mobileimsdk.protocal.c;
+package net.x52im.mobileimsdk.protocol.c;
 
 public class PLoginInfo
 {
